@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**JonathanBooker912/JonathanBooker912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Frostbit912/Frostbit912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm currently working towards my bachelor's degree in Computer Science, and working on an Information Management/Analytics System for my school's Esports program!
